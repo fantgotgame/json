@@ -1,0 +1,17 @@
+{
+  "users": [
+    { "id" : 1, 
+      "fio": "Fateev Ilya Nikolaevich", 
+      "date": "24 May 2020", 
+      "comment": "Nice work", 
+      "vip": true 
+    },
+    { 
+      "id" : 2, 
+      "fio": "Polezin Alex Vasilyavich", 
+      "date": "21 May 2020", 
+      "comment": "Bad work", 
+      "vip": false 
+    }
+  ]
+}
